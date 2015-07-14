@@ -1,0 +1,5 @@
+build/*
+gradle/wrapper/gradle-wrapper.jar
+*~
+python_src/recipe_details.p
+.gradle/*
